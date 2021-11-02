@@ -1,0 +1,17 @@
+.color_white
+{
+	color: white
+}
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
+
+body{
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
